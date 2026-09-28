@@ -1,0 +1,6 @@
+{
+  "name": "NOVA Atelier",
+  "description": "Quiet luxury apparel and architectural tailoring crafted from certified organic textiles and precision Italian wools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
